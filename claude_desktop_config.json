@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "cisco-mcp": {
+      "command": "/usr/bin/env",
+      "args": [
+        "python3",
+        "/Users/rohitp/model_context_protocol/mcp_server.py",
+        "--inventory",
+        "/Users/rohitp/model_context_protocol/devices.yaml"
+      ],
+      "env": {},
+      "workingDirectory": "/Users/rohitp/model_context_protocol/"
+    }
+  }
+}
