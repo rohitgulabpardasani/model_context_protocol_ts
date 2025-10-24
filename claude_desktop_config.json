@@ -4,12 +4,12 @@
       "command": "/usr/bin/env",
       "args": [
         "python3",
-        "/Users/rohitp/model_context_protocol/mcp_server.py",
+        "/Users/rohitp/model_context_protocol_ts/mcp_server.py",
         "--inventory",
-        "/Users/rohitp/model_context_protocol/devices.yaml"
+        "/Users/rohitp/model_context_protocol_ts/devices.yaml"
       ],
       "env": {},
-      "workingDirectory": "/Users/rohitp/model_context_protocol/"
+      "workingDirectory": "/Users/rohitp/model_context_protocol_ts/"
     }
   }
 }
